@@ -1,4 +1,4 @@
-RELY, DATA, CPLX, TIME, STOR, VIRT, TURN, ACAP, AEXP, PCAP, VEXP, LEXP, MODP, TOOL, SCED, LOC, ACT_EFFORT
+RELY, DATA, CPLX, TIME, STOR, VIRT, TURN, ACAP, AEXP, PCAP, VEXP, LEXP, MODP, TOOL, SCED, KLOC, Effort
 n,h,vh,n,n,l,n,h,n,vh,l,n,h,n,l,70,278
 vh,h,h,vh,vh,n,n,vh,vh,vh,n,h,h,h,l,227,1181
 n,h,h,vh,h,l,h,h,n,h,l,h,h,n,l,177.9,1248
