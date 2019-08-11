@@ -1,4 +1,4 @@
-ID, PREC, FLEX, RESL, TEAM, PMAT, RELY, DATA, CPLX, RUSE, DOCU, TIME, STOR, PVOL, ACAP, PCAP, PCON, AEXP, PEXP, LTEX, TOOL, SITE, SCED, KLOC, Effort
+ID, PREC, FLEX, RESL, TEAM, PMAT, RELY, DATA, CPLX, RUSE, DOCU, TIME, STOR, PVOL, ACAP, PCAP, PCON, APEX, PLEX, LTEX, TOOL, SITE, SCED, KLOC, Effort
 1,vh,n,l,h,vl,n,n,l,l,l,vh,h,n,h,vh,vh,vh,h,h,h,l,n,3,1.2
 2,vh,n,l,vh,vl,h,n,l,n,l,vh,h,n,h,h,vh,vh,vh,vh,h,vl,h,2,2
 3,xh,n,l,h,vl,h,vh,l,n,l,vh,vh,n,h,h,vh,vh,vh,vh,h,vl,h,4.25,4.5
